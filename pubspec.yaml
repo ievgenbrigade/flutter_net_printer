@@ -1,6 +1,6 @@
 name: flutter_net_printer
 description: The library allow you to discover and print to network printers using Flutter.
-version: 1.0.3
+version: 1.0.4
 homepage: https://github.com/fuadreza/flutter_net_printer
 
 environment:
@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  network_info_plus: ^6.1.4
-  plugin_platform_interface: ^2.0.2
+  network_info_plus: ^7.0.0
+  plugin_platform_interface: ^2.1.8
 
 dev_dependencies:
   build_runner: ^2.4.15
