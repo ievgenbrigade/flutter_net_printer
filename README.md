@@ -17,7 +17,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flutter_net_printer: ^1.0.1
+  flutter_net_printer: ^latest_version
 ```
 
 Then run:
